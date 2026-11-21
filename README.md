@@ -45,7 +45,7 @@ WhatsApp group  ──►  whatsapp-web.js (linked device)  ──►  forward.j
 ### 2. Install
 
 ```
-git clone https://github.com/YOURNAME/wa-telegram-forwarder.git
+git clone https://github.com/zarithsyakirin/wa-telegram-forwarder.git
 cd wa-telegram-forwarder
 npm install
 ```
